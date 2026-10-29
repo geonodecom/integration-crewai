@@ -6,7 +6,7 @@ Give your CrewAI researchers tools to find and collect source material from the 
 
 **[Try Geonode for free](https://app.geonode.com/sign-up)**
 
-[Integrations page](https://geonode.com/integrations) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [CrewAI setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/crewai) · [View package on PyPI](https://pypi.org/project/geonode-scraper-crewai/) · [View source on GitHub](https://github.com/geonodecom/integration-crewai) · [Complete guide](docs/guide.md)
+[Integrations page](https://geonode.com/integrations/integration-crewai) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [CrewAI setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/crewai) · [View package on PyPI](https://pypi.org/project/geonode-scraper-crewai/) · [View source on GitHub](https://github.com/geonodecom/integration-crewai) · [Complete guide](docs/guide.md)
 
 <!-- BEGIN README NAV -->
 [Quick start](#quick-start) · [Available operations](#available-operations) · [Example: a research workflow in CrewAI](#example-a-research-workflow-in-crewai) · [Setup questions](#setup-questions)

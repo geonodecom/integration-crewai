@@ -1,6 +1,6 @@
 # Geonode Scraper tools for CrewAI
 
-[Integrations page](https://geonode.com/integrations) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [GitHub source](https://github.com/geonodecom/integration-crewai) · [CrewAI setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/crewai) · [Published package](https://pypi.org/project/geonode-scraper-crewai/) · [Repository overview](../README.md)
+[Integrations page](https://geonode.com/integrations/integration-crewai) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [GitHub source](https://github.com/geonodecom/integration-crewai) · [CrewAI setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/crewai) · [Published package](https://pypi.org/project/geonode-scraper-crewai/) · [Repository overview](../README.md)
 
 **[Try Geonode for free](https://app.geonode.com/sign-up)**
 
